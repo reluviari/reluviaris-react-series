@@ -1,4 +1,4 @@
-# Learning React + Webpack Components, States and Props
+# Create a manager of your favorite series
 
 ## Criação: 06 de Maio de 2019
 ## Prática : @reluviari
