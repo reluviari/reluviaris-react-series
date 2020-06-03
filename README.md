@@ -10,3 +10,13 @@
 ![VSCode](/images/logo-VSCode.png)
 ![Git](/images/logo-git.png)
 ![GitHub](/images/logo-github.png)
+
+```sh
+ $ yarn install
+```
+
+## Run development project
+
+```sh
+ $ yarn start
+```
